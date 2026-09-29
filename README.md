@@ -145,4 +145,4 @@ system-design examples covering topics such as:
 
 [LinkedIn](https://www.linkedin.com/in/praveenkumar-android-developer/)
 
-[GitHub](https://github.com/prvnsam/prvnsam)
+[GitHub](https://github.com/praveenkumar-android)
